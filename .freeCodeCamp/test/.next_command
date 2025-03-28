@@ -299,3 +299,28 @@ clear
 pg_dump -cC --inserts -U freecodecamp number_guess > number_guess.sql
 git add .
 git commit -m "fix: fixing some bugs, tests dont work rn"
+clear
+./number_guess.sh
+clear
+./number_guess.sh
+pg_dump -cC --inserts -U freecodecamp number_guess > number_guess.sql
+clear
+./number_guess.sh
+clar
+clear
+./number_guess.sh
+clear
+./number_guess.sh
+clear
+./number_guess.sh
+pg_dump -cC --inserts -U freecodecamp number_guess > number_guess.sql
+git add .
+git commit -m "fix: fixed some minor bugs tests still fail"
+git add .
+./number_guess.sh
+pg_dump -cC --inserts -U freecodecamp number_guess > number_guess.sql
+clear
+./number_guess.sh
+pg_dump -cC --inserts -U freecodecamp number_guess > number_guess.sql
+git add .
+git commit -m "fix: still fixing problems to pass tests"
