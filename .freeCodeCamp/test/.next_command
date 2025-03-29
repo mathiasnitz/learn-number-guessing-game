@@ -614,3 +614,4 @@ clear
 git add .
 git commit -m "fix: final commit?"
 pg_dump -cC --inserts -U freecodecamp number_guess > number_guess.sql
+git log
